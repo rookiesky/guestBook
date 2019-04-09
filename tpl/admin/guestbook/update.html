@@ -58,25 +58,48 @@ uploadbutton.submit();
 
 KindEditor.ready(function(K) {					  
 var uploadbutton = K.uploadbutton({
-button : K('#AngBanner')[0],
-fieldName : 'imgFile',
-url : 'include/KindEditor/php/upload_json.php?dir=image',
-afterUpload : function(data) {
-if (data.error === 0) {
-var url = K.formatUrl(data.url, 'absolute');
-K('#gBanner').val(url);
-document.getElementById("gBannerImg").src=url
-} else {
-alert(data.message);
-}
-},
-afterError : function(str) {
-alert('自定义错误信息: ' + str);
-}
+  button : K('#AngBanner')[0],
+  fieldName : 'imgFile',
+  url : 'include/KindEditor/php/upload_json.php?dir=image',
+  afterUpload : function(data) {
+    if (data.error === 0) {
+      var url = K.formatUrl(data.url, 'absolute');
+      K('#gBanner').val(url);
+      document.getElementById("gBannerImg").src=url
+    } else {
+      alert(data.message);
+    }
+  },
+  afterError : function(str) {
+    alert('自定义错误信息: ' + str);
+  }
 });
-uploadbutton.fileBox.change(function(e) {
-uploadbutton.submit();
+  uploadbutton.fileBox.change(function(e) {
+    uploadbutton.submit();
+  });
 });
+
+KindEditor.ready(function(K) {
+  var uploadbutton = K.uploadbutton({
+    button : K('#Angback')[0],
+    fieldName : 'imgFile',
+    url : 'include/KindEditor/php/upload_json.php?dir=image',
+    afterUpload : function(data) {
+      if (data.error === 0) {
+        var url = K.formatUrl(data.url, 'absolute');
+        K('#gback').val(url);
+        document.getElementById("gbackImg").src=url
+      } else {
+        alert(data.message);
+      }
+    },
+    afterError : function(str) {
+      alert('自定义错误信息: ' + str);
+    }
+  });
+  uploadbutton.fileBox.change(function(e) {
+    uploadbutton.submit();
+  });
 });
 </script>
 
@@ -133,6 +156,15 @@ uploadbutton.submit();
     </div>
     
     <hr />
+
+      <div class="form-group">
+        <label for="gBanner">背景：</label>
+        <p class="help-block"><img src="tpl/images/notlogo.jpg" name="gbackImg" height="60" id="gbackImg" style="margin-bottom:10px;"></p>
+        <input type="text" name="gback" id="gback" value="<{$guestbook.gback|default:'tpl/images/notlogo.jpg'}>" class="form-control">
+        <p class="help-block"><input id="Angback" name="Anggback" type="submit" value="选择图片"></p>
+      </div>
+
+      <hr />
     
     <div class="form-group">
       <label for="gIntroduction">留言板介绍：</label>
