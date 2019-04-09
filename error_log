@@ -1,0 +1,72 @@
+[25-Jan-2019 07:51:19 UTC] 数据库链接错误 : Access denied for user 'root'@'localhost' (using password: YES)
+[25-Jan-2019 07:53:54 UTC] 数据库链接错误 : Access denied for user 'root'@'localhost' (using password: YES)
+[25-Jan-2019 07:53:59 UTC] 数据库链接错误 : Access denied for user 'root'@'localhost' (using password: YES)
+[25-Jan-2019 07:57:16 UTC] 数据库链接错误 : Access denied for user 'root'@'localhost' (using password: YES)
+[27-Jan-2019 00:54:42 UTC] Sql Error
+[27-Jan-2019 18:59:10 UTC] Sql Error
+[30-Jan-2019 03:21:10 UTC] Sql Error
+[31-Jan-2019 06:57:32 UTC] Sql Error
+[01-Feb-2019 19:35:46 UTC] Sql Error
+[02-Feb-2019 10:06:53 UTC] Sql Error
+[04-Feb-2019 17:57:37 UTC] 数据库链接错误 : Too many connections
+[17-Feb-2019 12:19:55 UTC] 数据库链接错误 : Too many connections
+[17-Feb-2019 19:47:52 UTC] 数据库链接错误 : Too many connections
+[19-Feb-2019 01:42:30 UTC] Sql Error
+[20-Feb-2019 01:19:01 UTC] 数据库链接错误 : Too many connections
+[26-Feb-2019 09:51:59 UTC] 数据库链接错误 : Too many connections
+[02-Mar-2019 12:19:11 UTC] Sql Error
+[04-Mar-2019 16:10:21 UTC] 数据库链接错误 : Too many connections
+[04-Mar-2019 17:14:47 UTC] 数据库链接错误 : Too many connections
+[05-Mar-2019 21:00:21 UTC] 数据库链接错误 : Too many connections
+[09-Mar-2019 11:21:04 UTC] Sql Error
+[16-Mar-2019 11:13:37 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 11:53:31 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 12:05:39 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 12:58:35 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 12:58:35 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 12:58:51 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 12:58:51 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 14:02:32 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 14:09:28 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 14:09:34 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 14:09:44 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 14:24:49 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 15:07:18 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 15:38:00 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 16:12:05 UTC] 数据库链接错误 : MySQL server has gone away
+[16-Mar-2019 16:15:30 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 16:37:26 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 17:29:21 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 17:43:19 UTC] 数据库链接错误 : MySQL server has gone away
+[16-Mar-2019 18:39:21 UTC] 数据库链接错误 : MySQL server has gone away
+[16-Mar-2019 18:54:17 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 19:46:29 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 20:05:20 UTC] 数据库链接错误 : MySQL server has gone away
+[16-Mar-2019 20:37:20 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 21:14:21 UTC] 数据库链接错误 : MySQL server has gone away
+[16-Mar-2019 21:39:46 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 22:01:52 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 22:15:48 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 22:21:03 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 22:33:51 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 22:40:55 UTC] 数据库链接错误 : No such file or directory
+[16-Mar-2019 22:55:11 UTC] 数据库链接错误 : MySQL server has gone away
+[16-Mar-2019 23:10:44 UTC] 数据库链接错误 : MySQL server has gone away
+[16-Mar-2019 23:32:54 UTC] 数据库链接错误 : No such file or directory
+[17-Mar-2019 00:14:21 UTC] 数据库链接错误 : No such file or directory
+[17-Mar-2019 01:25:42 UTC] 数据库链接错误 : No such file or directory
+[17-Mar-2019 01:27:41 UTC] 数据库链接错误 : No such file or directory
+[17-Mar-2019 01:41:04 UTC] 数据库链接错误 : MySQL server has gone away
+[17-Mar-2019 01:41:08 UTC] 数据库链接错误 : MySQL server has gone away
+[26-Mar-2019 01:01:52 UTC] 路由错误，请检查控制器目录下是否存在该控制器/动作。
+[26-Mar-2019 08:40:43 UTC] Sql Error
+[26-Mar-2019 08:41:15 UTC] Sql Error
+[26-Mar-2019 08:45:35 UTC] Sql Error
+[26-Mar-2019 08:46:53 UTC] Sql Error
+[26-Mar-2019 08:49:03 UTC] Sql Error
+[26-Mar-2019 08:54:49 UTC] Sql Error
+[26-Mar-2019 08:55:50 UTC] Sql Error
+[26-Mar-2019 09:00:48 UTC] Sql Error
+[26-Mar-2019 09:01:55 UTC] Sql Error
+[26-Mar-2019 13:12:16 UTC] Sql Error
+[26-Mar-2019 15:11:01 UTC] Sql Error
